@@ -35,7 +35,7 @@ This project uses the following third-party 3D models:
 
 ---
 
-You can also create a link to directly host the static webpage with the animation on GitHub. Mine is: [*(insert your GitHub Pages URL here)*](https://livia020799.github.io/project_ale/)
+You can also create a link to directly host the static webpage with the animation on GitHub. Mine is: https://livia020799.github.io/project_ale/
 
 Tutorial on how to create the link on GitHub
 
